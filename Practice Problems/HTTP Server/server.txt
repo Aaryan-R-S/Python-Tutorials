@@ -1,0 +1,8 @@
+In CMD(of required folder) Type --
+    python -m http.server
+
+Then in web browser --
+    localhost:8000 
+
+
+ 

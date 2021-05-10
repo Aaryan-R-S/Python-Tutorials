@@ -1,0 +1,23 @@
+Meta Characters :
+[]  A set of characters
+\   signals a special character (also for escaping special characters)
+.   Any character (except new line character)
+^   Starts with
+$   Ends with
+*   Zero or more occurrences
++   One or more occurrences
+{}  Exactly specified no of occurrences
+|   Or
+()  Group
+
+Special Sequences:
+\A  specified char at beginning of string
+\b  specified char at beginning or end of any word
+\B  specified char not at beginning or end of any word
+\d  contains digits
+\D  doesn't contains digits
+\w  contains word char
+\W  doesn't contains word char
+\s  contains space char
+\S  doesn't contain space char
+\Z  specified char at end of the string

@@ -1,0 +1,64 @@
+Indian Rupee	1.00	1.00
+US Dollar	0.013588	73.594222
+Euro	0.011199	89.290501
+British Pound	0.010227	97.783885
+Australian Dollar	0.017968	55.653723
+Canadian Dollar	0.017303	57.792385
+Singapore Dollar	0.018132	55.150486
+Swiss Franc	0.012056	82.949030
+Malaysian Ringgit	0.055020	18.175187
+Japanese Yen	1.414326	0.707051
+Chinese Yuan Renminbi	0.088896	11.249066
+Argentine Peso	1.115206	0.896695
+Australian Dollar	0.017968	55.653723
+Bahraini Dinar	0.005109	195.729313
+Botswana Pula	0.149007	6.711080
+Brazilian Real	0.068295	14.642409
+British Pound	0.010227	97.783885
+Bruneian Dollar	0.018132	55.150486
+Bulgarian Lev	0.021904	45.653508
+Canadian Dollar	0.017303	57.792385
+Chilean Peso	9.984446	0.100156
+Chinese Yuan Renminbi	0.088896	11.249066
+Colombian Peso	46.472700	0.021518
+Croatian Kuna	0.084471	11.838444
+Czech Koruna	0.294356	3.397245
+Danish Krone	0.083364	11.995616
+Emirati Dirham	0.049902	20.039271
+Euro	0.011199	89.290501
+Hong Kong Dollar	0.105329	9.494046
+Hungarian Forint	3.963946	0.252274
+Icelandic Krona	1.728442	0.578556
+Indonesian Rupiah	191.559620	0.005220
+Iranian Rial	566.570979	0.001765
+Israeli Shekel	0.044145	22.652544
+Japanese Yen	1.414326	0.707051
+Kazakhstani Tenge	5.695552	0.175576
+Kuwaiti Dinar	0.004147	241.125358
+Libyan Dinar	0.018291	54.672091
+Malaysian Ringgit	0.055020	18.175187
+Mauritian Rupee	0.537778	1.859502
+Mexican Peso	0.272030	3.676071
+Nepalese Rupee	1.607500	0.622084
+New Zealand Dollar	0.019143	52.238145
+Norwegian Krone	0.119160	8.392053
+Omani Rial	0.005225	191.402397
+Pakistani Rupee	2.174798	0.459813
+Philippine Peso	0.653325	1.530632
+Polish Zloty	0.049659	20.137151
+Qatari Riyal	0.049460	20.218193
+Romanian New Leu	0.054536	18.336373
+Russian Ruble	0.994085	1.005951
+Saudi Arabian Riyal	0.050955	19.625126
+Singapore Dollar	0.018132	55.150486
+South African Rand	0.204452	4.891112
+South Korean Won	14.816788	0.067491
+Sri Lankan Rupee	2.529624	0.395316
+Swedish Krona	0.114720	8.716886
+Swiss Franc	0.012056	82.949030
+Taiwan New Dollar	0.382716	2.612904
+Thai Baht	0.408331	2.448992
+Trinidadian Dollar	0.092139	10.853174
+Turkish Lira	0.107936	9.264744
+US Dollar	0.013588	73.594222
+Venezuelan Bolivar	0.135710	7.368633
